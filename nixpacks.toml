@@ -1,3 +1,2 @@
 [phases.plan.files]
 exclude = ["public/vendor"]
-```    *Notă: Excludem tot folderul `public/vendor` pentru a fi siguri că nu se va mai bloca și în alt fișier similar.*
