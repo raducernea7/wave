@@ -1,3 +1,0 @@
-[phases.plan]
-files = ["./**/*"]
-exclude = ["./public/vendor/**/*"]
