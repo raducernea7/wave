@@ -215,7 +215,7 @@
 
 		if (slider) {
 
-		$('#widthURL').slider
+		$('#widthURL').slider 
 		({
 		  formater: function(value) {
 			return data.youtubeWidth+': '+value;
